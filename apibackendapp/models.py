@@ -4,7 +4,7 @@ from django.db.models.signals import post_save
 from django.conf import  settings  
 from rest_framework.authtoken.models import Token   
 
-
+# my dear
 # Create your all wonderful models here.
 
 @receiver(post_save, sender=settings.AUTH_USER_MODEL)
