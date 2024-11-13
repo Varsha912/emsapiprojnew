@@ -5,7 +5,7 @@ from django.conf import  settings
 from rest_framework.authtoken.models import Token   
 
 
-# Create your wonderful models here.
+# Create your all wonderful models here.
 
 @receiver(post_save, sender=settings.AUTH_USER_MODEL)
 def create_auth_token(sender, instance=None, created=False, **kwargs):
