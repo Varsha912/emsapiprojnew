@@ -1,1 +1,1 @@
-print("hiiiiiiiiasdjfklksdfhalsidaifuoaufdhgflksfl;ajsdf;jiiuiudoiii")
+print("hiiiiiiiiuiudoiii")
